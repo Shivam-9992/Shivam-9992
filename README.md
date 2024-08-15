@@ -1,11 +1,7 @@
-                    # Hi 👋, I'm Shivam Kumar 
-
+<div align="center"># Hi 👋, I'm Shivam Kumar 
+</div>
 ## About Me
-
 
 - 📫 How to reach me: rajputshivam9992@gmail.com
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/shivam-kumar-2946aa254/)
-- [Twitter](https://x.com/Shivam_Rajput__)
+Connect with Me on LinkedIn(https://www.linkedin.com/in/shivam-kumar-2946aa254/)
