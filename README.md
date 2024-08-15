@@ -1,4 +1,5 @@
-<div align="center">*** Hi 👋, I'm Shivam Kumar ***
+<div align="center">
+  # Hi 👋, I'm Shivam Kumar
 </div>
 ## About Me
 
