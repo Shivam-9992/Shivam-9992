@@ -1,6 +1,6 @@
 <!-- Hero Section -->
 <h1 align="center">Hi There 👋, I'm Shivam Kumar</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
+<h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
 
 <p align="center">
   <a href="mailto:rajputshivam9992@gmail.com">
@@ -23,7 +23,7 @@
   - MERN Stack  
   - Next.js  
 - 📬 Email: rajputshivam9992@gmail.com  
-- 🏆 2025 Goal: Join a top-tier tech company & grow full-stack dev  
+- 🏆 2026 Goal: Join a top-tier tech company.
 - 🤖 Fun Fact: I build bots that chat with each other!
 
 ---
@@ -34,8 +34,6 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 </p>
@@ -56,7 +54,6 @@
   <img src="https://img.icons8.com/color/48/nodejs.png"/>
   <img src="https://img.icons8.com/fluency/48/express-js.png"/>
   <img src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/firebase.png"/>
 </p>
 
 ### 💾 Other Tools & Version Control
@@ -72,7 +69,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-9992&show_icons=true&theme=radical&border_radius=10&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shivam-9992&theme=radical&hide_border=true" />
   <br/>
